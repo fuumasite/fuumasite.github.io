@@ -90,8 +90,13 @@ h2, h1 {
     box-shadow: 1px 1px 10px rgb(22, 22, 22);
 }
 
+.portfolio .card img {
+    margin-bottom: 5px;
+}
+
+
 .fix2 {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
  .fix {
