@@ -88,11 +88,10 @@ h2, h1 {
     height: 100%;
     border: 3px solid white;
     box-shadow: 1px 1px 10px rgb(22, 22, 22);
-    
 }
 
 .fix2 {
-  padding: 20px;
+  margin-bottom: 20px;
 }
 
  .fix {
