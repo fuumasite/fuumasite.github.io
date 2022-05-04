@@ -118,6 +118,49 @@ h1 {
   width: 100%;
   background-color: #212529;
   color: white;
-  text-align: center;
   padding: 20px;
+}
+
+.icon2 i {
+  display: inline-block;
+  margin-right: 30px;
+}
+
+.icon2 a {
+  color: white;
+  text-decoration: none;
+}
+
+.footer .link a:hover {
+  color: rgb(83, 83, 83);
+}
+.icon2 a:hover {
+  color: rgb(83, 83, 83);
+}
+.footer .link a:visited {
+  color: rgb(255, 255, 255);
+}
+.icon2 a:visited {
+  color: rgb(255, 255, 255);
+}
+
+.footer .link a {
+  color: white;
+  margin-bottom: 10px;
+  text-decoration: none;
+}
+.copy {
+  text-align: center;
+}
+
+.icon img {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 5px;
+}
+
+.icon,
+.link,
+.icon2 {
+  margin-left: 20px;
 }
